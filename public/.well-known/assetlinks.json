@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.luminaspark.twa",
+        "sha256_cert_fingerprints": ["25:93:B6:60:AC:F4:C4:D7:9D:82:64:E9:3E:8C:23:1F:49:29:DA:FA:17:19:0C:8F:3F:B4:8C:EF:2D:C5:80:62"]
+      }
+    }]
